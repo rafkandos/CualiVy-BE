@@ -2,7 +2,8 @@
 
 **Make sure python already installed on your computer.**
 
-**Activate Virtual Env**
+**Install required libraries**
+
 ```pip install mysql-connector-python```
 
 **Activate Virtual Env**
